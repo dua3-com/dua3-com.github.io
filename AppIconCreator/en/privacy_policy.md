@@ -1,5 +1,7 @@
-App Icon Creator - Privacy Policy
-=================================
+---
+title: App Icon Creator - Privacy Policy
+permalink: /AppIconCreator/en/privacy
+---
 
 Last updated: 1/31/2020
 

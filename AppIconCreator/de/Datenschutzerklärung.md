@@ -1,5 +1,7 @@
-App Icon Creator - Datenschutzerklärung
-=======================================
+---
+title: App Icon Creator - Datenschutzerklärung
+permalink: /AppIconCreator/de/privacy
+---
 
 Zuletzt aktualisiert: 31.01.2020
 
