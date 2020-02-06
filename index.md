@@ -4,4 +4,4 @@ title: Applications
 permalink: /
 ---
 
-[AppIconCreator](/AppIconCreator/) - easily create Application Icons from SVG or PNG files
+[App Icon Creator](/AppIconCreator/) - easily create Application Icons from SVG or PNG files
