@@ -1,4 +1,3 @@
-
 title: dua3
 
 baseurl: ""
@@ -18,3 +17,7 @@ header_pages:
  - index.md
  - apps/index.md
  - imprint.md
+
+# exclude
+exclude:
+  - push.sh
