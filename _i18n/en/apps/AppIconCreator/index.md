@@ -1,8 +1,4 @@
----
-title: App Icon Creator
-permalink: /AppIconCreator/index
-layout: page
----
+# App Icon Creator
 
 Wasting too much time preparing icons for your applications? Do it now with a single click!
 
@@ -18,7 +14,7 @@ Wasting too much time preparing icons for your applications? Do it now with a si
 ## Screenshots
 
 Drag and drop your images into the application:
-![alt text](/AppIconCreator/screenshot.png)
+![]({{ site.lang }}/screenshot.png)
 
 Click on the disk symbols to save PNG files, Windows ICO iconsets, MacOS ICO files, or Zip archives:
-![alt text](/AppIconCreator/screenshot2.png)
+![]({{ site.lang }}/screenshot2.png)

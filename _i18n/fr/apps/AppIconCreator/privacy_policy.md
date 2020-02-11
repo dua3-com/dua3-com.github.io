@@ -1,7 +1,5 @@
----
-title: App Icon Creator - Politique de confidentialité
-permalink: /AppIconCreator/fr/privacy
----
+App Icon Creator - Politique de confidentialité
+===============================================
 
 Dernière mise à jour : 1/31/2020
 

@@ -1,7 +1,7 @@
 ---
-layout: home
-title: Applications
+layout: default
+title: home
 permalink: /
 ---
 
-[App Icon Creator](/AppIconCreator/) - easily create Application Icons from SVG or PNG files
+{% translate_file index.md %}
