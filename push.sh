@@ -5,6 +5,7 @@ rm -rf .gh-pages
 mkdir .gh-pages
 cd .gh-pages
 git clone -b gh-pages https://github.com/dua3-com/dua3-com.github.io.git
+git checkout gh-pages
 
 # clean contents
 rm -rf ../.gh-pages/*
@@ -25,4 +26,4 @@ git add -A
 git commit -m "update github-pages"
 
 # push
-git push gh-pages
+git push
