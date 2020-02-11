@@ -25,4 +25,4 @@ git add -A
 git commit -m "update github-pages"
 
 # push
-git push origin gh-pages
+git push
