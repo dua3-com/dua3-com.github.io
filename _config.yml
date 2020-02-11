@@ -8,6 +8,7 @@ theme: minima
 
 plugins:
   - jekyll-multiple-languages-plugin
+  - jekyll-redirect-from
 
 # multilanguage
 languages: ["en", "en", "de", "fr"]
