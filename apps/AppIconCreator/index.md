@@ -1,6 +1,6 @@
 ---
 title: App Icon Creator
-layout: page
+layout: default
 namespace: AppIconCreator
 permalink: /apps/AppIconCreator
 ---
