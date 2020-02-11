@@ -1,18 +1,16 @@
 #!/usr/bin/env bash
 
 #checkout github pages
-rm -r .gh-pages
+rm -rf .gh-pages
 mkdir .gh-pages
 cd .gh-pages
-git init
-git remote add origin https://github.com/dua3-com/dua3-com.github.io.git
-git checkout -b gh-pages
+git clone -b gh-pages https://github.com/dua3-com/dua3-com.github.io.git
 
 # clean contents
-rm -r ../.gh-pages/*
+rm -rf ../.gh-pages/*
 
 # build the site
-jekyll build
+( cd .. && bundle exec jekyll build )
 
 # copy to github-pages
 cp -r ../_site/* ../.gh-pages/
